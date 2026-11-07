@@ -12,7 +12,7 @@ const slug = 'jaaise'
 const title = 'Journal of Agentic AI for Sustainable Energy'
 
 const intro =
-  'The Journal of Agentic AI for Sustainable Energy (JAAISE) publishes original research, review articles, and short communications on agentic artificial intelligence, autonomous decision-making, and intelligent control for sustainable energy systems. The journal welcomes theoretical advances and practical applications in multi-agent coordination, renewable energy integration, smart grids, energy storage, and energy management, supported by rigorous analysis and evidence.'
+  'The Journal of Agentic AI for Sustainable Energy (JAAISE) publishes original research and review articles on agentic artificial intelligence, autonomous decision-making, and intelligent control for sustainable energy systems. The journal welcomes theoretical advances and practical applications in multi-agent coordination, renewable energy integration, smart grids, energy storage, and energy management, supported by rigorous analysis and evidence.'
 
 const topics = [
   'Agentic AI architectures for sustainable energy systems',

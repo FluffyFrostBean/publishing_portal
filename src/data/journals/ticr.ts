@@ -13,7 +13,7 @@ const slug = 'ticr'
 const title = 'Transactions on Intelligent Computing and Reasoning'
 
 const intro =
-  'The Transactions on Intelligent Computing and Reasoning (TICR) publishes original research, review articles, and short communications on artificial intelligence, computational methods, and intelligent systems. The journal welcomes theoretical advances and practical applications supported by rigorous analysis and evidence.'
+  'The Transactions on Intelligent Computing and Reasoning (TICR) publishes original research and review articles on artificial intelligence, computational methods, and intelligent systems. The journal welcomes theoretical advances and practical applications supported by rigorous analysis and evidence.'
 
 const topics = [
   'Machine learning',
@@ -87,7 +87,7 @@ export const ticrDetail: JournalDetail = {
         lead: 'The international journal for research on artificial intelligence, computational methods and intelligent systems',
         paragraphs: [
           'Intelligent computing has become a foundation of modern science, industry and public services. Learning systems, autonomous agents and data-driven decision support now shape how organisations diagnose disease, manage infrastructure, teach, trade and govern. As these systems grow more capable and more widely deployed, research is needed not only on new algorithms and architectures, but on their reliability, efficiency, transparency and security in real-world settings.',
-          'The Transactions on Intelligent Computing and Reasoning (TICR) is a peer-reviewed, open-access journal that publishes original research, review articles and short communications on artificial intelligence, computational methods and intelligent systems. The journal welcomes theoretical advances and practical applications supported by rigorous analysis and evidence. Topics include, but are not limited to:',
+          'The Transactions on Intelligent Computing and Reasoning (TICR) is a peer-reviewed, open-access journal that publishes original research and review articles on artificial intelligence, computational methods and intelligent systems. The journal welcomes theoretical advances and practical applications supported by rigorous analysis and evidence. Topics include, but are not limited to:',
         ],
         bullets: topics,
         topicList: true,

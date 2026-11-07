@@ -12,7 +12,7 @@ const slug = 'tqcis'
 const title = 'Transactions on Quantum Computing and Information Security'
 
 const intro =
-  'The Transactions on Quantum Computing and Information Security (TQCIS) publishes original research, review articles, and short communications on quantum computing, quantum information technologies, and security in the quantum era. The journal welcomes theoretical advances and practical applications in quantum algorithms, systems, cryptography, and post-quantum security, supported by rigorous analysis and evidence.'
+  'The Transactions on Quantum Computing and Information Security (TQCIS) publishes original research and review articles on quantum computing, quantum information technologies, and security in the quantum era. The journal welcomes theoretical advances and practical applications in quantum algorithms, systems, cryptography, and post-quantum security, supported by rigorous analysis and evidence.'
 
 const topics = [
   'Quantum computing and algorithms',
